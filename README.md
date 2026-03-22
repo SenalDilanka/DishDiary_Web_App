@@ -50,3 +50,7 @@ If your local setup is different, edit `includes/db.php`.
 - Include `database.sql`
 - Include this `README.md`
 - Submit the public GitHub link in the LMS
+
+## Authors
+- Senal Dilanka - ICT/2023/023   Index_No - 6015
+- Imalka Ashen - ICT/2023/097    Index_No - 6078
